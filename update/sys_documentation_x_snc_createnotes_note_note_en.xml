@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="note" label="Note" language="en" table="x_snc_createnotes_note">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>note</element>
             <help/>
-            <hint/>
+            <hint>Enter notes here...</hint>
             <label>Note</label>
             <language>en</language>
             <name>x_snc_createnotes_note</name>
@@ -12,15 +11,15 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-04-10 15:48:53</sys_created_on>
-            <sys_id>3c8b6569090232007f44e1046c8ff6ab</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>ec1082f71bb3001032008515ec4bcbd1</sys_id>
+            <sys_mod_count>2</sys_mod_count>
             <sys_name>Note</sys_name>
             <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
             <sys_policy/>
             <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
             <sys_update_name>sys_documentation_x_snc_createnotes_note_note_en</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-10 15:48:53</sys_updated_on>
+            <sys_updated_by>will.smith</sys_updated_by>
+            <sys_updated_on>2020-04-02 21:55:16</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
